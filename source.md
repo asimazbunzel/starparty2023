@@ -65,7 +65,7 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url( 
 # .fsize120[.blue[**Par de estrellas ligadas gravitacionalmente de manera que, en algún momento de su evolución, intercambiarán:**]]
 ]
 .boxtitle3.noborder.fgtransparent.pushfront[
-# .fsize120[.white[*- Transferencia de masa*]]
+# .fsize120[.white[*- Masa*]]
 ]
 .boxtitle3.noborder.fgtransparent.pushfront[
 # .fsize120[.blue[*- Momento angular*]]
